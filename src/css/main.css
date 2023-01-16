@@ -1,0 +1,87 @@
+@font-face { font-family: roboto-regular; 
+    src: url('../font/Roboto-Regular.ttf'); } 
+
+body
+{
+    background-color: rgb(211, 206, 223);
+}
+
+
+#back
+{
+
+    color: rgb(100, 49, 182);
+    margin-left: 5px;
+    font-size: 200%;
+}
+
+#back:hover
+{
+
+    color: rgb(182, 49, 116);
+    margin-left: 5px;
+    font-size: 300%;
+}
+
+.button{
+	background-color: rgb(180, 159, 159);
+    font-size: 20px;
+}
+#fio
+{
+    margin-top: -30px;
+    font-size: 30px;
+    font-family: roboto-regular;
+}
+
+.img
+{
+    width: 40px;
+}
+.des
+{
+    font-size: 180%;
+    color: rgb(216, 83, 243);
+}
+.des:visited
+{
+    font-size: 180%;
+    color: rgb(216, 83, 243);
+}
+
+.des:hover
+{
+    font-size: 200%;
+    color: rgb(102, 41, 0)ж
+}
+
+a
+{
+    color: rgb(9, 168, 22);
+    font-size: 170%;
+    margin-left: 5px;
+}
+
+h1
+{
+    color: rgb(201, 79, 79);
+    text-align: center;
+    font-size: 40pt;
+    margin-top: 4px;
+}
+
+h2
+{
+    color: rgb(255, 0, 255);
+    text-align: center;
+    font-size: 38pt;
+    font-style: italic;
+    margin-top: 4px;
+}
+
+#text1
+{
+    font-size: 20pt;
+    font-family:Cambria;
+    color: rgb(68, 34, 192);
+}
